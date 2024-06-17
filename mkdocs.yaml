@@ -1,0 +1,4 @@
+docs_dir: ./src/screenshot
+theme:
+  name: material
+  custom_dir: src/.overrides
